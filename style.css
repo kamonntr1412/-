@@ -1,0 +1,10 @@
+body {background-color: pink;}
+h1{text-align: center;}
+h2{
+    text-align:center;
+    height: 30px;
+    width: 100;
+    border: 2px solid slategrey;
+
+}
+p{text-align: center;}
